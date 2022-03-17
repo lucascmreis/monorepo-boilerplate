@@ -22,7 +22,7 @@ This is boilerplate repository,  for fast and easy way to start you monorepo pro
    ```sh
    git clone https://github.com/lucascmreis/monorepo-boilerplate.git
    ```
-3. Instale as dependências
+3. Install dependencies in all packages
    ```sh
    yarn
    ```
